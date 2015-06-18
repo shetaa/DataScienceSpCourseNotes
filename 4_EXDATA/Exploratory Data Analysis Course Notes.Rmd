@@ -158,7 +158,7 @@ grid.raster(readPNG("figures/6.jpg"))
 	* `mfcol`: number of plots per row, column (plots are filled column-wise)
 	* can verify all above parameters by calling `par("parameter")`
 * **plotting functions**
-	* `lines`: adds liens to a plot, given a vector of x values and corresponding vector of y values
+	* `lines`: adds lines to a plot, given a vector of x values and corresponding vector of y values
 	* `points`: adds a point to the plot
 	* `text`: add text labels to a plot using specified x,y coordinates
 	* `title`: add annotations to x,y axis labels, title, subtitles, outer margin
